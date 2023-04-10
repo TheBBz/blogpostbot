@@ -4,7 +4,7 @@ from PIL import Image
 from io import BytesIO
 
 # Set up the API keys
-openai.api_key = "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"
+openai.api_key = ""
 
 # Define a function to generate the blog content
 def generate_blog_content():
